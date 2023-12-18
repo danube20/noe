@@ -23,20 +23,6 @@ const defaultText = document.getElementById('text')
 const videoTag = document.getElementById('videos')
 const videoSource = document.getElementById('videoSource')
 const image = document.getElementById('images')
-const backgroundMusic = document.getElementById('backgroundMusic');
-
-videoTag.onplay = () => {
-    backgroundMusic.play();
-};
-
-videoTag.onpause = () => {
-    backgroundMusic.pause();
-};
-
-videoTag.onended = () => {
-    backgroundMusic.pause();
-    backgroundMusic.currentTime = 0;
-};
 
 if (isSpecialDay) {
   defaultText.style.display = 'none'
