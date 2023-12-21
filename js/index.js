@@ -4,7 +4,7 @@ const contentUrls = {
   14: 'https://res.cloudinary.com/andresgarcia/image/upload/v1702149804/noe/5_c220z3.jpg',
   16: 'https://res.cloudinary.com/andresgarcia/video/upload/v1702149805/noe/7_gko6sg.mp4',
   17: 'https://res.cloudinary.com/andresgarcia/video/upload/v1702840040/noe/8.mp4',
-  20: 'https://res.cloudinary.com/andresgarcia/video/upload/v1702149805/noe/9_yp5l8r.mp4',
+  21: 'https://res.cloudinary.com/andresgarcia/video/upload/v1702149805/noe/nhibilumaguswuj3dpic.mov',
   22: 'https://res.cloudinary.com/andresgarcia/video/upload/v1702149805/noe/13_us9koj.mp4',
   24: 'https://res.cloudinary.com/andresgarcia/video/upload/v1702149805/noe/15_gwhsnx.mp4',
   26: 'https://res.cloudinary.com/andresgarcia/image/upload/v1702149806/noe/17_jasjep.jpg',
